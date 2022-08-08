@@ -6,6 +6,7 @@
 
 # :pushpin: Table of Contents
 
+<<<<<<< HEAD
 
 - :house: [About](#house-about)
 - :dart: [Installation](#dart-Installation)
@@ -17,6 +18,16 @@
 - :handshake: [Contributing](#handshake-Contributing)
 - :scroll: [License](#scroll-License)
 
+=======
+- :house: [About](#about)
+- :dart: [Installation](#Installation)
+  - :gear: [Install dependencies](##Install_dependencies)
+  - :rocket: [Getting Started](##Getting_Started)
+- :computer: [Techs](#Techs)
+- :bust_in_silhouette: [Author](#Author)
+- :handshake: [Contributing](#Contributing)
+- :scroll: [License](#License)
+>>>>>>> 063fa78 (Finalização Header e footer)
 
 ---
 
@@ -79,10 +90,14 @@ SSH is a secure protocol, but you need to register a key ssh in your github befo
 ```bash /store-scrat
 	vtex link
 ```
+<<<<<<< HEAD
 ---
 # :left_right_arrow: API
 
 - [Documentation API AWS](https://github.com/BrunoSobralDEV/final-challenge-hc/tree/main/aws)
+=======
+
+>>>>>>> 063fa78 (Finalização Header e footer)
 ---
 
 # :computer: Techs
@@ -118,8 +133,12 @@ SSH is a secure protocol, but you need to register a key ssh in your github befo
 # :bust_in_silhouette: Author
 
 <table>
+<<<<<<< HEAD
 	
 <tr>
+=======
+	<tr>
+>>>>>>> 063fa78 (Finalização Header e footer)
 		<td align="center">
 			<a href="https://github.com/AdamsFlorisbal">
 				<img
@@ -261,8 +280,13 @@ SSH is a secure protocol, but you need to register a key ssh in your github befo
 				</sub>
 			</a>
 		</td>						
+<<<<<<< HEAD
 </tr>	
 	
+=======
+		
+	</tr>	
+>>>>>>> 063fa78 (Finalização Header e footer)
 		
 	
 	
@@ -280,4 +304,8 @@ Contributions, issues and feature requests are welcome! Feel free to **file a ne
 
 Copyright :copyright: 2022 [Adams Gawlinski Florisbal, Affonso Kopmann, Alexx Moreira, Bruno Sobral, Duda Fajardo, Katianne Araujo, Luis Gabriel Fidélis, Luiz Otávio Lima Falcão, Mateus Toledo, Mônica Mendes](https://github.com/AdamsFlorisbal/Desafio-semi-final-Hiring-Coders-3).
 <br/>
+<<<<<<< HEAD
 ---
+=======
+---
+>>>>>>> 063fa78 (Finalização Header e footer)
